@@ -1,0 +1,7 @@
+C:\Users\danrn\source\repos\Project2\Project2\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Users\danrn\source\repos\Project2\Project2\Debug\Project2.MyForm.resources
+C:\Users\danrn\source\repos\Project2\Project2\Debug\Project2.vcxproj.GenerateResource.cache
+C:\Users\danrn\source\repos\Project2\Project2\Debug\Project2.checkoutMcdonalds.resources
+C:\Users\danrn\source\repos\Project2\Project2\Debug\Project2.BurgerkingCheckout.resources
+C:\Users\danrn\source\repos\Project2\Project2\Debug\Project2.chipolteCheckout.resources
+C:\Users\danrn\source\repos\Project2\Project2\Debug\Project2.qudobaCheckout.resources
