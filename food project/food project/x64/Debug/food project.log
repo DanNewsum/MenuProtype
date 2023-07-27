@@ -1,0 +1,6 @@
+﻿  Chipotle.cpp
+  Qudoba.cpp
+  Source.cpp
+C:\Users\mamal\source\repos\food project\food project\Source.cpp(8,13): warning C4101: 'quant': unreferenced local variable
+  Generating Code...
+  food project.vcxproj -> C:\Users\mamal\source\repos\food project\x64\Debug\food project.exe
